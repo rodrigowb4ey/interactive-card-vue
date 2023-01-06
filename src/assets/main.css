@@ -14,4 +14,17 @@
     background-image: url("/assets/images/bg-main-desktop.png");
     background-repeat: no-repeat;
   }
+
+  #app {
+    height: 100%;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  main {
+    height: 80%;
+    width: 80%;
+  }
 }
